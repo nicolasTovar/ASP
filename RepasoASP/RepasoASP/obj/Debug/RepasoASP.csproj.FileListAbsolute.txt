@@ -1,0 +1,10 @@
+C:\Users\100_Jornada1\Desktop\fernelly\RepasoASP\RepasoASP\bin\Debug\RepasoASP.exe.config
+C:\Users\100_Jornada1\Desktop\fernelly\RepasoASP\RepasoASP\bin\Debug\RepasoASP.exe
+C:\Users\100_Jornada1\Desktop\fernelly\RepasoASP\RepasoASP\bin\Debug\RepasoASP.pdb
+C:\Users\100_Jornada1\Desktop\fernelly\RepasoASP\RepasoASP\obj\Debug\RepasoASP.csprojAssemblyReference.cache
+C:\Users\100_Jornada1\Desktop\fernelly\RepasoASP\RepasoASP\obj\Debug\RepasoASP.Form1.resources
+C:\Users\100_Jornada1\Desktop\fernelly\RepasoASP\RepasoASP\obj\Debug\RepasoASP.Properties.Resources.resources
+C:\Users\100_Jornada1\Desktop\fernelly\RepasoASP\RepasoASP\obj\Debug\RepasoASP.csproj.GenerateResource.cache
+C:\Users\100_Jornada1\Desktop\fernelly\RepasoASP\RepasoASP\obj\Debug\RepasoASP.csproj.CoreCompileInputs.cache
+C:\Users\100_Jornada1\Desktop\fernelly\RepasoASP\RepasoASP\obj\Debug\RepasoASP.exe
+C:\Users\100_Jornada1\Desktop\fernelly\RepasoASP\RepasoASP\obj\Debug\RepasoASP.pdb

@@ -10,11 +10,11 @@ using System.Windows.Forms;
 
 namespace RepasoASP
 {
-    public partial class Form1 : Form
+    public partial class frmAsp : Form
     {
         int resultado = +1;
         int guardar;
-        public Form1()
+        public frmAsp()
         {
             InitializeComponent();
         }

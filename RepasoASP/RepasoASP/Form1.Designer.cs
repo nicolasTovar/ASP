@@ -1,6 +1,6 @@
 ﻿namespace RepasoASP
 {
-    partial class Form1
+    partial class frmAsp
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -35,7 +35,7 @@
             // 
             // btnCancelar
             // 
-            this.btnCancelar.Location = new System.Drawing.Point(407, 133);
+            this.btnCancelar.Location = new System.Drawing.Point(283, 90);
             this.btnCancelar.Name = "btnCancelar";
             this.btnCancelar.Size = new System.Drawing.Size(75, 23);
             this.btnCancelar.TabIndex = 5;
@@ -45,7 +45,7 @@
             // 
             // btnIncrementar
             // 
-            this.btnIncrementar.Location = new System.Drawing.Point(295, 133);
+            this.btnIncrementar.Location = new System.Drawing.Point(171, 90);
             this.btnIncrementar.Name = "btnIncrementar";
             this.btnIncrementar.Size = new System.Drawing.Size(75, 23);
             this.btnIncrementar.TabIndex = 4;
@@ -55,21 +55,23 @@
             // 
             // txtMostrar
             // 
-            this.txtMostrar.Location = new System.Drawing.Point(343, 85);
+            this.txtMostrar.Location = new System.Drawing.Point(219, 42);
             this.txtMostrar.Name = "txtMostrar";
             this.txtMostrar.Size = new System.Drawing.Size(100, 20);
             this.txtMostrar.TabIndex = 3;
             // 
-            // Form1
+            // frmAsp
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(192)))));
+            this.ClientSize = new System.Drawing.Size(529, 140);
+            this.ControlBox = false;
             this.Controls.Add(this.btnCancelar);
             this.Controls.Add(this.btnIncrementar);
             this.Controls.Add(this.txtMostrar);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "frmAsp";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
